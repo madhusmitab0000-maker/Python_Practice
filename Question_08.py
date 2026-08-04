@@ -1,0 +1,1 @@
+print("2 to the power 3 is", 2**3)
