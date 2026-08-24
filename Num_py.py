@@ -1,0 +1,13 @@
+import numpy as np
+a=np.array([1,2,3])
+b=np.zeros((3,4))
+c=np.ones((3,4))
+d=np.full((3,4),5)
+e=np.arange(0,10,1)
+f=np.random.random((3,4))
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
